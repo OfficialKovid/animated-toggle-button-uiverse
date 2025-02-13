@@ -6,8 +6,8 @@ body {
 .dark-theme {
   background-color: #222;
 }
+/* The code below is adapted from UIverse.io by RiccardoRapelli (https://uiverse.io/RiccardoRapelli/jolly-chicken-91), licensed under the MIT License. */
 
-/* From Uiverse.io by RiccardoRapelli */
 .switch {
   position: relative;
   display: inline-block;
@@ -280,3 +280,4 @@ body {
     transform: scale(1);
   }
 }
+/* End of adapted code from UIverse.io by RiccardoRapelli */
